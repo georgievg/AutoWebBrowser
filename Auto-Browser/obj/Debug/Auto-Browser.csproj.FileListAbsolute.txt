@@ -1,0 +1,5 @@
+c:\users\georgi\documents\visual studio 2013\Projects\Face-Browser-Demo\Auto-Browser\obj\Debug\Auto-Browser.csprojResolveAssemblyReference.cache
+c:\users\georgi\documents\visual studio 2013\Projects\Face-Browser-Demo\Auto-Browser\bin\Debug\Auto-Browser.dll
+c:\users\georgi\documents\visual studio 2013\Projects\Face-Browser-Demo\Auto-Browser\bin\Debug\Auto-Browser.pdb
+c:\users\georgi\documents\visual studio 2013\Projects\Face-Browser-Demo\Auto-Browser\obj\Debug\Auto-Browser.dll
+c:\users\georgi\documents\visual studio 2013\Projects\Face-Browser-Demo\Auto-Browser\obj\Debug\Auto-Browser.pdb
